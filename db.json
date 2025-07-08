@@ -66,7 +66,7 @@
       "grupo_poblacional": "",
       "des_grupo_poblacional": "COMUNIDADES INDÍGENAS"
     },
-     {
+    {
       "id": "1062085150",
       "tipo_identificacion_id": "TI",
       "numero_identificacion": "1062085150",
@@ -108,7 +108,7 @@
       "id": "1081618820",
       "tipo_identificacion_id": "RC",
       "numero_identificacion": "1081618820",
-      "fecha_expedicion": "N",
+      "fecha_expedicion": null,
       "primer_nombre": "THIAGO",
       "segundo_nombre": "ELEXIS",
       "primer_apellido": "GARCIA",
@@ -141,13 +141,13 @@
       "des_grupo_etnico": "NINGUNO",
       "nacionalidad": "COLOMBIA",
       "pais_origen": "AFGANISTÁN",
-      "direccion": {
-        "barrio": "204 AGUA BENDITA",
+      "direccion": "", 
+      "barrio": "204 AGUA BENDITA",
         "corregimiento": "BELALCAZAR",
         "municipio": "PAEZ",
         "departamento": "CAUCA",
         "zona": "RURAL"
-      },
+      
       "nivel_educativo": "NINGUNO"
     }
   ]
